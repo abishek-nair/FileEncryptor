@@ -5,10 +5,14 @@
   },
 
   "dependencies": {
+    "Microsoft.Extensions.CommandLineUtils": "1.0.0",
     "Microsoft.NETCore.App": {
-      "type": "platform",
       "version": "1.0.1"
     }
+  },
+
+  "runtimes": {
+    "win10-x64":  {}
   },
 
   "frameworks": {
