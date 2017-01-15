@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileEncryptor": {
+      "commandName": "Project",
+      "commandLineArgs": "encrypt"
+    }
+  }
+}
